@@ -32,7 +32,6 @@
 [![Code Review](https://img.shields.io/badge/Code%20Review-007ACC?logo=github&logoColor=white)](https://docs.github.com/)
 [![Data Structures](https://img.shields.io/badge/Data%20Structures-1F425F?logo=files&logoColor=white)](https://en.wikipedia.org/wiki/Data_structure)
 [![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white)](https://maven.apache.org/)
-markdown
 [![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white)](https://gradle.org/)
 
 # Проекты
@@ -41,10 +40,8 @@ markdown
 | Название | Описание |
 | ----------- | ----------- |
 | [Rogue](https://github.com/Ravil-F/Rogue) |  Реализация классической игры Rogue 1980 года на языке программирования Java в консольным представлении с использованием библиотеки Lanterna. |
-| [User Management System](https://github.com/Ravil-F/adding_viewing_users) |
-Современное веб-приложение, для добавление и просмотра пользователей на стеке Java EE / Jakarta EE с использованием Servlet API и JSP. |
-| [Taco Cloud](https://github.com/Ravil-F/adding_viewing_users) |
-Современное веб-приложение. Твоя любимая еда. Твои правила. Заказывай блюда по своим ингредиентам. На стеке Java, Spring boot, Thymeleaf, Lombok.|
+| [User Management System](https://github.com/Ravil-F/adding_viewing_users) | Современное веб-приложение, для добавление и просмотра пользователей на стеке Java EE / Jakarta EE с использованием Servlet API и JSP. |
+| [Taco Cloud](https://github.com/Ravil-F/adding_viewing_users) | Современное веб-приложение. Твоя любимая еда. Твои правила. Заказывай блюда по своим ингредиентам. На стеке Java, Spring boot, Thymeleaf, Lombok.|
 
 ## С
 | Название | Описание |
